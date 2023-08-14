@@ -1,4 +1,4 @@
-<h1>Creating Ransomeware in Pyhton </h1>
+<h1>Keylogger in Python </h1>
 
 <h2>Description</h2>
 Working on a basic keylogger to sharpen my python skills and better understand how they work. I will keep adding features and improving it as I learn more about python. This is for educational purposes only please do not use any of this code of malicious purposes. 
